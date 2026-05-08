@@ -1,17 +1,17 @@
 {
   "LocalAssetBrowser.History": {
     "Value": "[\u0022C:\\\\Users\\\\Admin\\\\Documents\\\\GitHub\\\\s-war\\\\s_war\\\\Assets\u0022,\u0022C:\\\\Users\\\\Admin\\\\Documents\\\\GitHub\\\\s-war\\\\s_war\\\\Assets\\\\scenes\u0022]",
-    "Timeout": 1780796159,
+    "Timeout": 1780873593,
     "DeleteAt": 0
   },
   "LocalAssetBrowser.HistoryIdx": {
     "Value": "1",
-    "Timeout": 1780796159,
+    "Timeout": 1780873593,
     "DeleteAt": 0
   },
   "Window.SboxSceneEditor.Dock": {
     "Value": "{\u0022floatingWindows\u0022:[],\u0022mainWrapper\u0022:{\u0022geometry\u0022:\u0022AdnQywADAAAAAAAAAAAAAAAACfcAAAUrAAAAAAAAAAAAAAn3AAAFKwAAAAAAAAAACgAAAAAAAAAAAAAACfcAAAUr\u0022,\u0022splitter\u0022:{\u0022items\u0022:[{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneTreeWidget\u0022,\u0022name\u0022:\u0022Hierarchy\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022PanelInspectorWidget\u0022,\u0022name\u0022:\u0022UI Panels\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022items\u0022:[{\u0022items\u0022:[{\u0022currentIndex\u0022:1,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneDock\u0022,\u0022name\u0022:\u0022SceneDock:scenes/gamescreen.scene\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneDock\u0022,\u0022name\u0022:\u0022SceneDock:scenes/mainscreen.scene\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022Inspector\u0022,\u0022name\u0022:\u0022Inspector\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAAFxwAAAvsA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022},{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MainAssetBrowser\u0022,\u0022name\u0022:\u0022Asset Browser\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MixerDock\u0022,\u0022name\u0022:\u0022Mixer\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022LibraryManagerDock\u0022,\u0022name\u0022:\u0022Library Manager\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:1,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022PerformanceDock\u0022,\u0022name\u0022:\u0022Performance\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022ConsoleWidget\u0022,\u0022name\u0022:\u0022Console\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAAFyAAAAvoA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAADlgAAAvEA/////wEAAAACAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAABLgAACMYA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAABAAAFKAD/////AQAAAAIA\u0022,\u0022type\u0022:\u0022splitter\u0022}},\u0022toolWindowManagerStateFormat\u0022:1}",
-    "Timeout": 1780805089,
+    "Timeout": 1780873608,
     "DeleteAt": 0
   },
   "scenes/minimal.scene.Viewport0": {
@@ -21,27 +21,27 @@
   },
   "SceneView.Viewport0.Settings": {
     "Value": "{\u0022CameraPosition\u0022:\u0022-496.701019,456.609924,454.768188\u0022,\u0022CameraRotation\u0022:\u00220.0862662271,0.307932973,-0.255595028,0.912363172\u0022,\u0022View\u0022:0,\u0022RenderMode\u0022:0,\u0022WireframeMode\u0022:false,\u0022EnablePostProcessing\u0022:true,\u0022EnablePrefabLighting\u0022:true,\u0022ShowSkyIn2D\u0022:true,\u0022ShowGrid\u0022:true,\u0022GridOpacity\u0022:0.2,\u0022GridAxis\u0022:0,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1780805088,
+    "Timeout": 1780876526,
     "DeleteAt": 0
   },
   "gizmo.settings": {
     "Value": "{\u0022EditMode\u0022:\u0022position\u0022,\u0022Selection\u0022:true,\u0022ViewMode\u0022:\u00223d\u0022,\u0022GizmosEnabled\u0022:true,\u0022GizmoScale\u0022:1,\u0022GridSpacing\u0022:32,\u0022SnapToGrid\u0022:false,\u0022SnapToAngles\u0022:true,\u0022AngleSpacing\u0022:15,\u0022GlobalSpace\u0022:false,\u0022DebugActionGraphs\u0022:false,\u0022DisabledGizmos\u0022:{}}",
-    "Timeout": 1780805089,
+    "Timeout": 1780873592,
     "DeleteAt": 0
   },
   "SceneView.Layout": {
     "Value": "{\u0022Layout\u0022:0,\u0022SplitterState\u0022:[]}",
-    "Timeout": 1780805089,
+    "Timeout": 1780873593,
     "DeleteAt": 0
   },
   "scenes/gamescreen.scene.Viewport0": {
     "Value": "{\u0022CameraPosition\u0022:\u0022-496.701019,456.609924,454.768188\u0022,\u0022CameraRotation\u0022:\u00220.0862662271,0.307932973,-0.255595028,0.912363172\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1780805088,
+    "Timeout": 1780876526,
     "DeleteAt": 0
   },
   "scenes/mainscreen.scene.Viewport0": {
-    "Value": "{\u0022CameraPosition\u0022:\u002224.6081543,-5.50608492,10.2235689\u0022,\u0022CameraRotation\u0022:\u0022-0.119830832,0.008589142,0.990216732,0.0709759891\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1780805088,
+    "Value": "{\u0022CameraPosition\u0022:\u0022-158.055496,28.1157093,65.4684448\u0022,\u0022CameraRotation\u0022:\u00220.00802949071,0.229913056,-0.0339665934,0.972585082\u0022,\u0022CameraOrthoHeight\u0022:1000}",
+    "Timeout": 1780876526,
     "DeleteAt": 0
   },
   "LocalAssetBrowser.Scene.History": {
@@ -55,8 +55,8 @@
     "DeleteAt": 0
   },
   ".Viewport0": {
-    "Value": "{\u0022CameraPosition\u0022:\u002224.6081543,-5.50608492,10.2235689\u0022,\u0022CameraRotation\u0022:\u0022-0.119830832,0.008589142,0.990216732,0.0709759891\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1780784415,
+    "Value": "{\u0022CameraPosition\u0022:\u0022-158.055496,28.1157093,65.4684448\u0022,\u0022CameraRotation\u0022:\u00220.00802949071,0.229913056,-0.0339665934,0.972585082\u0022,\u0022CameraOrthoHeight\u0022:1000}",
+    "Timeout": 1780876514,
     "DeleteAt": 0
   }
 }
